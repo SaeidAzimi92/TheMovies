@@ -1,2 +1,2 @@
 # TheMovies
-This is a simple implementation of The Movie DB.
+This is a simple Android application of The Movie DB.
